@@ -12,6 +12,3 @@ I'm a passionate and dedicated software developer with a focus on web developmen
 
 ## 📫 How to Reach Me:
 - **Email:** [chalaunebimal@gmail.com](mailto:chalaunebimal@gmail.com)
-
-
-Feel free to check out my repositories and connect with me. I'm always open to new opportunities and collaborations!
